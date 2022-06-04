@@ -1,4 +1,4 @@
-package com.didoszak.notepadmvvm
+package com.didoszak.notepadmvvm.feature_note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
