@@ -92,6 +92,7 @@ fun AddEditNoteScreen(
                             .size(50.dp)
                             .shadow(15.dp, CircleShape)
                             .clip(CircleShape)
+                            .background(Color(colorInt))
                             .border(
                                 width = 3.dp,
                                 color = if (viewModel.noteColor.value == colorInt)
