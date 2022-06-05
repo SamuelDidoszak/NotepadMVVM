@@ -9,7 +9,6 @@ import androidx.lifecycle.viewModelScope
 import com.didoszak.notepadmvvm.feature_note.domain.model.InvalidNoteException
 import com.didoszak.notepadmvvm.feature_note.domain.model.Note
 import com.didoszak.notepadmvvm.feature_note.domain.use_case.NoteUseCases
-import com.didoszak.notepadmvvm.feature_note.presentation.screen_add_edit_note.components.NoteTextFieldState
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableSharedFlow
 import kotlinx.coroutines.flow.asSharedFlow

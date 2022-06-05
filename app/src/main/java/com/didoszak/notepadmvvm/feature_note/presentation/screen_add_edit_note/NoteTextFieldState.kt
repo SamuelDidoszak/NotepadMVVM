@@ -1,4 +1,4 @@
-package com.didoszak.notepadmvvm.feature_note.presentation.screen_add_edit_note.components
+package com.didoszak.notepadmvvm.feature_note.presentation.screen_add_edit_note
 
 data class NoteTextFieldState(
     val text: String = "",
